@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <title>AngularJS ng init directive</title>
+    <script src="Script/angular.min.js"></script>
+    <script src="Script/Script.js"></script>
+    <link href="Style.css" rel="stylesheet" />
+	<meta charset="utf-8" />
+</head>
+<body>
+     <div ng-controller="myController">  
+
+         <ul>
+             <li ng-repeat="country in countries" ng-init="parentIndex = $index">
+                 {{country.name}} 
+                 <ul>
+                     <li ng-repeat="city in country.cities">
+                         {{city.name}} - parent Index = {{parentIndex}}, Index = {{$index}}
+                     </li>
+                 </ul>
+             </li>
+         </ul>
+
+         <!--<table>
+             <thead>
+                 <tr>
+                     <th>Name</th>
+                     <th>Gender</th>
+                     <th>City</th>
+                 </tr>
+             </thead>
+             <tbody>
+                 <tr ng-repeat="employee in employees">
+                     <td>{{employee.name}}</td>
+                     <td>{{employee.gender}}</td>
+                     <td>{{employee.city}}</td>
+                 </tr>
+             </tbody>
+         </table>-->
+     </div>
+</body>
+</html>

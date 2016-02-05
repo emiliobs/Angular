@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html  ng-app="myModule">
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/Script.js"></script>
+    <link href="Style.css" rel="stylesheet" />
+ 
+</head>
+<body>
+    <div ng-controller="myController">
+        <!--input type="text" placeholder="Search Employees." ng-model="seachText" />-->
+         Search: <input type="text" placeholder="Search City & Name." ng-model="seachText" />
+         <!--<input type="text" placeholder="Search City." ng-model="seachText.city" />
+        <input type="checkbox" ng-model="exactMatch" /> Exact Match-->
+        <br /><br />
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Gender</th>
+                    <th>Salary</th>
+                    <th>City</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="employee in employees | filter:seachText:exactMatch">
+                    <td>{{employee.name}}</td>
+                    <td>{{employee.gender}}</td>
+                    <td>{{employee.salary}}</td>
+                    <td>{{employee.city}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

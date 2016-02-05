@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{43F01D84-195C-4734-94C7-CD66E32D929E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchfilterinAngularJS", "SearchfilterinAngularJS\SearchfilterinAngularJS.csproj", "{E6AA1765-AE57-4842-8268-08417A686568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateacustomfilterinAngularJS", "CreateacustomfilterinAngularJS\CreateacustomfilterinAngularJS.csproj", "{C42FB2ED-3265-4F53-AA54-0A99DA7924CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nghideandngshowinAngularJS", "nghideandngshowinAngularJS\nghideandngshowinAngularJS.csproj", "{44158637-A9CC-47F5-99D7-C76F892BC004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJSnginitdirective", "AngularJSnginitdirective\AngularJSnginitdirective.csproj", "{FD2F459A-3CE9-4AC9-81C8-121B4797BDD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ngincludedirectiveinAngularJS", "ngincludedirectiveinAngularJS\ngincludedirectiveinAngularJS.csproj", "{65FADEF4-4FB0-40A9-BAB5-0562FA1280BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingASPNETWebServiceinAngularJSusing$http", "ConsumingASPNETWebServiceinAngularJSusing$http\ConsumingASPNETWebServiceinAngularJSusing$http.csproj", "{F8B57BE0-759E-4452-AACF-43E89A6DC0B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingASPNETWebServiceinAngularJSusing$http01", "ConsumingASPNETWebServiceinAngularJSusing$http01\ConsumingASPNETWebServiceinAngularJSusing$http01.csproj", "{F5CC7D10-8905-4AD9-83E3-2143F027F4A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "$http service in AngularJS", "$http service in AngularJS\$http service in AngularJS.csproj", "{AF24C1B1-CAEE-4CE4-91EC-5C9B1D965EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create custom service in AngularJS", "Create custom service in AngularJS\Create custom service in AngularJS.csproj", "{51E18793-0074-476A-9DD1-B63306294526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F01D84-195C-4734-94C7-CD66E32D929E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F01D84-195C-4734-94C7-CD66E32D929E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F01D84-195C-4734-94C7-CD66E32D929E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F01D84-195C-4734-94C7-CD66E32D929E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6AA1765-AE57-4842-8268-08417A686568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AA1765-AE57-4842-8268-08417A686568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AA1765-AE57-4842-8268-08417A686568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AA1765-AE57-4842-8268-08417A686568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42FB2ED-3265-4F53-AA54-0A99DA7924CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42FB2ED-3265-4F53-AA54-0A99DA7924CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42FB2ED-3265-4F53-AA54-0A99DA7924CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42FB2ED-3265-4F53-AA54-0A99DA7924CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44158637-A9CC-47F5-99D7-C76F892BC004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44158637-A9CC-47F5-99D7-C76F892BC004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44158637-A9CC-47F5-99D7-C76F892BC004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44158637-A9CC-47F5-99D7-C76F892BC004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2F459A-3CE9-4AC9-81C8-121B4797BDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2F459A-3CE9-4AC9-81C8-121B4797BDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2F459A-3CE9-4AC9-81C8-121B4797BDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2F459A-3CE9-4AC9-81C8-121B4797BDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65FADEF4-4FB0-40A9-BAB5-0562FA1280BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FADEF4-4FB0-40A9-BAB5-0562FA1280BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FADEF4-4FB0-40A9-BAB5-0562FA1280BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FADEF4-4FB0-40A9-BAB5-0562FA1280BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B57BE0-759E-4452-AACF-43E89A6DC0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B57BE0-759E-4452-AACF-43E89A6DC0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B57BE0-759E-4452-AACF-43E89A6DC0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B57BE0-759E-4452-AACF-43E89A6DC0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CC7D10-8905-4AD9-83E3-2143F027F4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CC7D10-8905-4AD9-83E3-2143F027F4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CC7D10-8905-4AD9-83E3-2143F027F4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CC7D10-8905-4AD9-83E3-2143F027F4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF24C1B1-CAEE-4CE4-91EC-5C9B1D965EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF24C1B1-CAEE-4CE4-91EC-5C9B1D965EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF24C1B1-CAEE-4CE4-91EC-5C9B1D965EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF24C1B1-CAEE-4CE4-91EC-5C9B1D965EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E18793-0074-476A-9DD1-B63306294526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E18793-0074-476A-9DD1-B63306294526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E18793-0074-476A-9DD1-B63306294526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E18793-0074-476A-9DD1-B63306294526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

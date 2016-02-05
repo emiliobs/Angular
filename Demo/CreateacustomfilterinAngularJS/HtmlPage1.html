@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="Script/angular.min.js"></script>
+    <script src="Script/Script.js"></script>
+    <script src="Script/Script.js"></script>
+    <script src="Script/Filters.js"></script>
+    <link href="Style.css" rel="stylesheet" />
+</head>
+<body ng-app="myModule">
+     <div ng-controller="myController">
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Gender</th>
+                    <th>Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="employee in employees">
+                    <td> {{employee.name}} </td>
+                    <td> {{employee.gender | gender}} </td>
+                    <td> {{employee.salary}} </td>
+                </tr>
+            </tbody>
+        </table>
+     </div>
+</body>
+</html>

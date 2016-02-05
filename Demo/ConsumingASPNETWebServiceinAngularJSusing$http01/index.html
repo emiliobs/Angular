@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html ng-app="MyModule">
+<head>
+    <title>Consuming ASP NET Web Service in AngularJS using $http</title>
+	<meta charset="utf-8" />
+    <script src="Script/angular.min.js"></script>
+    <script src="Script/Js.js"></script>
+    <link href="Style.css" rel="stylesheet" />
+</head>
+<body>
+    <div ng-controller="MyController">
+          <table>
+              <thead>
+                  <tr>
+                      <th>Id</th>
+                      <th>Name</th>
+                      <th>Gender</th>
+                      <th>Salary</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr ng-repeat="employee in employees">
+                      <td>{{employee.Id}}</td>
+                      <td>{{employee.Name}}</td>
+                      <td>{{employee.Gender}}</td>
+                      <td>{{employee.Salary}}</td>
+                  </tr>
+              </tbody>
+          </table>
+    </div>
+</body>
+</html>
