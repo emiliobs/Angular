@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create custom service in An
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJS anchorscroll example", "AngularJS anchorscroll example\AngularJS anchorscroll example.csproj", "{32EA801B-7468-4A40-BFA6-3C402AE31228}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular JS routing part 23", "Angular JS routing part 23\Angular JS routing part 23.csproj", "{71E804AA-7B36-47F3-BDEA-6535AE1FEE20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularLayoutTemplate", "AngularLayoutTemplate\AngularLayoutTemplate.csproj", "{16996F5A-8F0C-4128-8FE0-187080473535}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{32EA801B-7468-4A40-BFA6-3C402AE31228}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32EA801B-7468-4A40-BFA6-3C402AE31228}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32EA801B-7468-4A40-BFA6-3C402AE31228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E804AA-7B36-47F3-BDEA-6535AE1FEE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E804AA-7B36-47F3-BDEA-6535AE1FEE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E804AA-7B36-47F3-BDEA-6535AE1FEE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E804AA-7B36-47F3-BDEA-6535AE1FEE20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16996F5A-8F0C-4128-8FE0-187080473535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16996F5A-8F0C-4128-8FE0-187080473535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16996F5A-8F0C-4128-8FE0-187080473535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16996F5A-8F0C-4128-8FE0-187080473535}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
