@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular JS routing part 23"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularLayoutTemplate", "AngularLayoutTemplate\AngularLayoutTemplate.csproj", "{16996F5A-8F0C-4128-8FE0-187080473535}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJS controllerassyntax", "AngularJS controllerassyntax\AngularJS controllerassyntax.csproj", "{562C9E36-83D4-47E6-8F09-467316537AC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{16996F5A-8F0C-4128-8FE0-187080473535}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16996F5A-8F0C-4128-8FE0-187080473535}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16996F5A-8F0C-4128-8FE0-187080473535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562C9E36-83D4-47E6-8F09-467316537AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562C9E36-83D4-47E6-8F09-467316537AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562C9E36-83D4-47E6-8F09-467316537AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562C9E36-83D4-47E6-8F09-467316537AC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

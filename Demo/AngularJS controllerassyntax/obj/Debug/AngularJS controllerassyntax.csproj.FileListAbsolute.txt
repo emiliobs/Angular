@@ -1,0 +1,32 @@
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\ApplicationInsights.config
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\csc.exe
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\vbc.exe
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\AngularJS controllerassyntax.dll.config
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\AngularJS controllerassyntax.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\AngularJS controllerassyntax.pdb
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.AI.Web.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.AI.Web.xml
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\obj\Debug\AngularJS controllerassyntax.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\CursoAngular\Demo\AngularJS controllerassyntax\obj\Debug\AngularJS controllerassyntax.pdb

@@ -50,6 +50,38 @@ namespace AngularLayoutTemplate
             Context.Response.Write(js.Serialize(listStudents));
         }
 
+        [WebMethod]
+        public void GetStudent(int id)
+        {
+            Student student = new Student();
+
+
+            string cs = ConfigurationManager.ConnectionStrings["DBCS"].ConnectionString;
+            using (SqlConnection con = new SqlConnection(cs))
+            {
+                SqlCommand cmd = new SqlCommand("Select * from tblStudents where Id = @id", con);
+
+                SqlParameter paramId = new SqlParameter("@id", id);
+                cmd.Parameters.Add(paramId);
+                 
+                con.Open();
+                SqlDataReader rdr = cmd.ExecuteReader();
+                while (rdr.Read())
+                {
+                   
+                    student.Id = Convert.ToInt32(rdr["Id"]);
+                    student.Name = rdr["Name"].ToString();
+                    student.Gender = rdr["Gender"].ToString();
+                    student.City = rdr["City"].ToString();
+                    
+                }
+            }
+
+
+            JavaScriptSerializer js = new JavaScriptSerializer();
+            Context.Response.Write(js.Serialize(student));
+        }
+
 
 
     }

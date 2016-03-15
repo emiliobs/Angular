@@ -1,8 +1,8 @@
 ﻿<h1>List of Students</h1>
 <ul>
-    <li ng-repeat="student in students">
-        {{student.Name }} , {{ student.City}}
-        
+    <li ng-repeat="student in studentsCtrl.students">
+        <a href="students/{{student.Id}}">
+            {{student.Name}}
+        </a>
     </li>
-    
 </ul>
